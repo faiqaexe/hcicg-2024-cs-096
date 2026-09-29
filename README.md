@@ -1,1 +1,3 @@
-# hcicg-2024-cs-096
+Faiqa qayyum
+2024-cs-096
+TOOL-CHAIN: C++,python,WebGl 
